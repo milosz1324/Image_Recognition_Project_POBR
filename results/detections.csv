@@ -1,0 +1,5 @@
+image,detection_id,score,polarity,bbox_x1,bbox_y1,bbox_x2,bbox_y2,area,aspect_ratio,fill_ratio,perimeter_ratio
+apple_image_multipleInstances.jpeg,1,0.7,bright,497,572,569,669,4951,0.7449,0.6921,4.2352
+apple_image_multipleInstances.jpeg,2,0.5717,bright,4,458,123,591,11491,0.8955,0.7146,4.1513
+apple_image_oneInstance.jpeg,1,0.5773,dark,1156,578,1257,684,8643,0.9533,0.7919,3.5604
+apple_image_peopleBackground.jpeg,1,0.5817,warm_bright,499,117,658,326,24349,0.7619,0.7247,4.3963

@@ -1,0 +1,144 @@
+[
+  {
+    "image": "apple_image_multipleInstances.jpeg",
+    "annotated_path": "results\\annotated\\apple_image_multipleInstances_detected.jpg",
+    "detections": [
+      {
+        "bbox": [
+          497,
+          572,
+          569,
+          669
+        ],
+        "score": 0.7000195609679848,
+        "polarity": "bright",
+        "features": {
+          "area": 4951,
+          "bbox": [
+            497,
+            572,
+            569,
+            669
+          ],
+          "aspect_ratio": 0.7448979591836735,
+          "fill_ratio": 0.6920603857981549,
+          "perimeter_ratio": 4.235159792616586,
+          "hu_log": [
+            0.7302707445151263,
+            2.203981956474035,
+            4.196427869459604,
+            4.723158786716847,
+            -9.986076653044686,
+            -6.2231011255773385,
+            9.187620681565466
+          ]
+        }
+      },
+      {
+        "bbox": [
+          4,
+          458,
+          123,
+          591
+        ],
+        "score": 0.571685753116353,
+        "polarity": "bright",
+        "features": {
+          "area": 11491,
+          "bbox": [
+            4,
+            458,
+            123,
+            591
+          ],
+          "aspect_ratio": 0.8955223880597015,
+          "fill_ratio": 0.7146144278606965,
+          "perimeter_ratio": 4.151271125053493,
+          "hu_log": [
+            0.7601879737349854,
+            2.9169523755511224,
+            4.28967853914988,
+            5.0206181160412315,
+            10.403744680482598,
+            -7.378424713618676,
+            9.681020197420802
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "image": "apple_image_oneInstance.jpeg",
+    "annotated_path": "results\\annotated\\apple_image_oneInstance_detected.jpg",
+    "detections": [
+      {
+        "bbox": [
+          1156,
+          578,
+          1257,
+          684
+        ],
+        "score": 0.5773060255587256,
+        "polarity": "dark",
+        "features": {
+          "area": 8643,
+          "bbox": [
+            1156,
+            578,
+            1257,
+            684
+          ],
+          "aspect_ratio": 0.9532710280373832,
+          "fill_ratio": 0.7919186366135239,
+          "perimeter_ratio": 3.560374954091505,
+          "hu_log": [
+            0.7765472394671363,
+            3.574947938727583,
+            4.151943513803348,
+            5.236688574846962,
+            -10.057832881582861,
+            -7.325418217862459,
+            -10.096521290669012
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "image": "apple_image_peopleBackground.jpeg",
+    "annotated_path": "results\\annotated\\apple_image_peopleBackground_detected.jpg",
+    "detections": [
+      {
+        "bbox": [
+          499,
+          117,
+          658,
+          326
+        ],
+        "score": 0.5817211021863883,
+        "polarity": "warm_bright",
+        "features": {
+          "area": 24349,
+          "bbox": [
+            499,
+            117,
+            658,
+            326
+          ],
+          "aspect_ratio": 0.7619047619047619,
+          "fill_ratio": 0.724672619047619,
+          "perimeter_ratio": 4.396261838972191,
+          "hu_log": [
+            0.7646897053954097,
+            2.5801301366196085,
+            3.9861933849533995,
+            5.276725421689788,
+            -10.433465469354024,
+            -6.874555599854428,
+            -9.92363741692434
+          ]
+        }
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 # Rozpoznawanie logotypu Apple - projekt POBR
 
-Projekt z rozpoznawania obiektów w obrazach naturalnych. Celem jest wykrywanie logotypu Apple na zdjęciach z niejednorodnym tłem, zgodnie z wymaganiami przedmiotu POBR.
+Projekt z rozpoznawania obiektów w obrazach naturalnych. Celem jest wykrywanie logotypu Apple na zdjęciach z niejednorodnym tłem.
 
 ## Założenia
 
